@@ -7,7 +7,7 @@ function App() {
     <>
     <div className="flex  md:w-[1320px] mx-auto   ">
   <Header></Header>
-  <Cover></Cover>
+  {/* <Cover></Cover> */}
 
     </div>
     </>
