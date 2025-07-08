@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Lionel Messi",
+    "player_img": "https://i.postimg.cc/SKcPzXGj/messi.jpg",
+    "country": "Argentina",
+    "rating": 94,
+    "player_type": "Forward",
+    "price": 120000000
+  },
+  {
+    "id": 2,
+    "name": "Cristiano Ronaldo",
+    "player_img": "https://i.postimg.cc/XqjtWVdq/ronaldo.jpg",
+    "country": "Portugal",
+    "rating": 93,
+    "player_type": "Striker",
+    "price": 100000000
+  },
+  {
+    "id": 3,
+    "name": "Kylian Mbappé",
+    "player_img": "https://i.postimg.cc/0jXXq79X/mbappe.jpg",
+    "country": "France",
+    "rating": 91,
+    "player_type": "Forward",
+    "price": 160000000
+  },
+  {
+    "id": 4,
+    "name": "Kevin De Bruyne",
+    "player_img": "https://i.postimg.cc/mkgpqmWF/kevin.jpg",
+    "country": "Belgium",
+    "rating": 89,
+    "player_type": "Midfielder",
+    "price": 95000000
+  },
+  {
+    "id": 5,
+    "name": "Virgil van Dijk",
+    "player_img": "https://i.postimg.cc/wvVb0SZp/virgil-van-dijk.jpg",
+    "country": "Netherlands",
+    "rating": 88,
+    "player_type": "Centre Back",
+    "price": 85000000
+  },
+  {
+    "id": 6,
+    "name": "Emiliano Martínez",
+    "player_img": "https://i.postimg.cc/FHd8NCdy/emi-martinez.jpg",
+    "country": "Argentina",
+    "rating": 87,
+    "player_type": "Goalkeeper",
+    "price": 70000000
+  },
+  {
+    "id": 7,
+    "name": "Luka Modrić",
+    "player_img": "https://i.postimg.cc/KzFH7Z9f/luka-modric.jpg",
+    "country": "Croatia",
+    "rating": 86,
+    "player_type": "Midfielder",
+    "price": 50000000
+  },
+  {
+    "id": 8,
+    "name": "Sergio Ramos",
+    "player_img": "https://i.postimg.cc/T3zSwjgZ/sergio-ramos.jpg",
+    "country": "Spain",
+    "rating": 85,
+    "player_type": "Defender",
+    "price": 45000000
+  },
+  {
+    "id": 9,
+    "name": "Erling Haaland",
+    "player_img": "https://i.postimg.cc/pXd31LP1/haaland.jpg",
+    "country": "Norway",
+    "rating": 92,
+    "player_type": "Striker",
+    "price": 180000000
+  },
+  {
+    "id": 10,
+    "name": "Neymar Jr.",
+    "player_img": "https://i.postimg.cc/SQdwrMbM/neymar.jpg",
+    "country": "Brazil",
+    "rating": 89,
+    "player_type": "Forward",
+    "price": 110000000
+  },
+  {
+    "id": 11,
+    "name": "Cristiano Romero",
+    "player_img": "https://i.postimg.cc/Y0dZqJz3/cutie-romero.jpg",
+    "country": "Argentina",
+    "rating": 90,
+    "player_type": "Defender",
+    "price": 700000000
+  },
+  {
+    "id": 12,
+    "name": "Paulo Dybala",
+    "player_img": "https://i.postimg.cc/bNF4XfJY/dybala.jpg",
+    "country": "Argentina",
+    "rating": 92,
+    "player_type": "Forward",
+    "price": 90000000
+  }
+]
