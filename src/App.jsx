@@ -2,6 +2,7 @@ import "./App.css";
 import Header from "./Components/Header/Header";
 import Players from "./Components/Player/Players";
 import Player from "./Components/Player/Player";
+import Footer from "./Components/Footer/Footer";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Players></Players>
         {/* <Cover></Cover> */}
       </div>
+      <Footer/>
       
     </>
   );

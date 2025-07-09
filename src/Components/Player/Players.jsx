@@ -1,4 +1,3 @@
-import images from "../../assets/images/football.png";
 import images4 from "../../assets/images/profile-icon.png";
 import images5 from "../../assets/images/flag.png";
 
@@ -436,57 +435,24 @@ const Players = () => {
         </div>
       </div>
 
-      {/* __________Footer Section_________ */}
-      <div className="mt-60 bg-black ">
-        <div className="flex  justify-center">
-          <img className="w-32 mt-52 " src={images} alt="football" />
-        </div>
-
-        {/* ___3 column Text___ */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-8 text-white text-center mt-20">
-          {/* 1st Text column */}
-          <div className="text-left">
-            <h2 className="text-lg font-bold">About Us</h2>
-            <p
-              className="mt-2 text-md text-gray-400
-             font-semibold leading-relaxed"
-            >
-              We are a passionate team <br />
-              dedicated to providing the <br />
-              services to our customers.
-            </p>
-          </div>
-
-          {/* 2nd Text column */}
-          <div className="flex flex-col items-center">
-            <h2 className="text-lg font-bold text-center">Quick Links</h2>
-            <ul className="mt-2 text-md text-gray-400 font-semibold list-disc list-inside text-left">
-              <li className="mb-2">Home</li>
-              <li className="mb-2">About</li>
-              <li className="mb-2">Services</li>
-              <li className="mb-2">Contact</li>
-            </ul>
-          </div>
-
-          {/* 3rd Text column */}
-          <div className="max-w-sm mx-auto ">
-            <h2 className="text-lg text-left font-bold">Subscribe</h2>
-            <p className="mt-2 text-left text-md font-semibold text-gray-400">
-              Subscribe to our newsletter <br /> for the latest updates.
-            </p>
-
-            {/* Email */}
-            <div className="flex mt-4">
-              <input
-                type="email"
-                className="p-2 pl-4 rounded-l-lg text-sm border border-gray-300 focus:outline-none w-full text-black"
-                placeholder="Enter your email"
-              />
-
-              <button className="bg-yellow-400 text-black text-sm font-bold px-4 rounded-r-lg hover:bg-lime-500">
-                Subscribe
-              </button>
-            </div>
+      {/* Subscribe Section */}
+      <div className="border-2 relative top-72  p-4 rounded-xl ">
+        <div className="bg-lime-500 py-32 rounded-lg flex flex-col items-center justify-center text-center">
+          <h1 className="text-3xl font-bold text-black">
+            Subscribe to our Newsletter
+          </h1>
+          <p className="text-gray-700 text-lg font-semibold mt-2">
+            Get the latest upadates and news right in your inbox!
+          </p>
+          <div className="flex justify-center gap-3 mt-3">
+            <input
+              type="email"
+              className="p-2 w-[400px] pl-4 rounded-lg text-sm border border-gray-400 focus:outline-none w-full text-black"
+              placeholder="Enter your email"
+            />
+            <button className="bg-yellow-400 text-black text-sm font-bold px-4 rounded-lg hover:bg-red-500 hover:text-yellow-400">
+              Subscribe
+            </button>
           </div>
         </div>
       </div>
