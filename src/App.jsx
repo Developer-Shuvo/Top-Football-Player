@@ -9,11 +9,11 @@ function App() {
     <>
       <div className="flex flex-col  md:w-[1320px] mx-auto   ">
         <Header></Header>
-        {/* <Main></Main> */}
+        
         <Player></Player>
-        {/* <Main></Main> */}
+      
         <Players></Players>
-        {/* <Cover></Cover> */}
+       
       </div>
       <Footer/>
       
